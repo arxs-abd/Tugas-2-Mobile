@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas 2</string>
+    <string name="cv">Perkenalkan Nama Saya Aris Akhyar Abdillah, Saya lahir di Barru, 3 April 2000 dan Saat Menempuh Pendidikan di Program Studi Ilmu Komputer di Universitas Hasanuddin</string>
+    <string name="artikel">Android Studio adalah Integrated Development Environment (IDE) resmi untuk pengembangan aplikasi Android, yang didasarkan pada IntelliJ IDEA . Selain sebagai editor kode dan fitur developer IntelliJ yang andal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda</string>
+</resources>
